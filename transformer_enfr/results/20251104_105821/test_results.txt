@@ -1,0 +1,42 @@
+Test loss: 2.3582
+
+SRC: but it doesn't !
+PRED: mais ça ne peut pas !
+TGT:  erreur profonde !
+----------------------------------------
+SRC: the upper part of the mouth of the cetacean was , indeed , provided on both sides with eight hundred  blades , very  , of a   , and  at the edge like great  , at which the teeth , six feet long , served to retain the thousands of  , little fish , and  , on which the whale fed .
+PRED: la partie supérieure du cétacé était , en somme , pourvu de deux cents <unk> , de <unk> , très <unk> , de <unk> , de <unk> , de <unk> , de <unk> , de <unk> , de <unk> ,
+TGT:  la partie supérieure de la bouche du cétacé était , en effet ,  , sur les deux côtés , de huit cents lames  , très  , de   , et  à leurs bords comme deux grands  , dont les dents , longues de six pieds , servent à retenir les milliers  , de petits poissons et de mollusques dont se  la baleine .
+----------------------------------------
+SRC: that wound which had to be dressed rejoiced his heart .
+PRED: cette blessure qui avait voulu être habillé .
+TGT:  cela lui  le coeur , cette plaie qu'il fallait  .
+----------------------------------------
+SRC: that gave us 4 , 000 feet of ice overhead , of which 1 , 000 feet emerged above water .
+PRED: cela nous donna quatre mille pieds de glace , dont les mille pieds <unk> au - dessus de l'eau .
+TGT:  ce qui donnait deux mille pieds de glaces au - dessus de nous , dont mille  .
+----------------------------------------
+SRC: he believed this opportunity was now come and addressed his neighbor : " it is not astonishing that that young man should be afraid of a ball , for he is doubtless a musketeer  . "
+PRED: il croyait que l'occasion était venu à s'approcher et adressa son voisin : - - ce n'est pas étonnant que ce jeune homme ait peur d'être peur d'une balle , car il est sans doute un mousquetaire <unk> .
+TGT:  il crut donc que cette occasion était venue , et s'adressant à son voisin : « il n'est pas étonnant , dit - il , que ce jeune homme ait eu peur d'une balle , c'est sans doute un  mousquetaire . »
+----------------------------------------
+SRC: if we had a cart or a boat , it would be easy enough . "
+PRED: si nous avions un chariot ou un bateau , il serait facile de faire assez facile .
+TGT:  si nous avions une charrette ou un bateau , ce serait trop facile .
+----------------------------------------
+SRC: when i considered this a little , it followed necessarily that i was certainly in the wrong ; that these people were not murderers , in the sense that i had before condemned them in my thoughts , any more than those christians were murderers who often put to death the prisoners taken in battle ; or more frequently , upon many occasions , put whole troops of men to the sword , without giving quarter , though they threw down their arms and submitted .
+PRED: quand je considérais ceci un peu , il suivit de nécessairement que j'étais bien en tort , que ces gens n'étaient pas , dans le sens que j'avais devant eux , dans mes pensées , quelque autre chose qui <unk>
+TGT:  de ces réflexions il  nécessairement que j'étais injuste , et que ces peuples n'étaient pas plus des meurtriers dans le sens que je les avais d'abord condamnés en mon esprit , que ces chrétiens qui souvent mettent à mort les prisonniers faits dans le combat , ou qui plus souvent encore passent sans quartier des armées entières au fil de l'épée ,  aient mis bas les armes et se soient  .
+----------------------------------------
+SRC: the murder that now occurred to their minds , seemed to them natural , fatal and forcibly brought about by the murder of camille .
+PRED: le meurtre qui se <unk> maintenant , semblait les <unk> naturelles , fatale et <unk> autour de camille .
+TGT:  le meurtre , qui se présenta à leur pensée , leur sembla fatal , naturel ,  amené par le meurtre de camille .
+----------------------------------------
+SRC: " it is extraordinary how  the peasants are about here ! any number of them are ready to swear that they have seen such a creature upon the moor . "
+PRED: « c'est extraordinaire que les paysans sont <unk> ! aucun nombre d'entre eux sont prêts à jurer qu ’ ils ont vu si loin sur la lande ! »
+TGT:  – c ’ est extraordinaire comme les paysans d ’ ici sont  !
+----------------------------------------
+SRC: all the country knew it , and as a proof , the discovered seam was called the guillaume , after his grandfather .
+PRED: tout le pays le savait , et , comme une preuve , la veine était <unk> , le guillaume guillaume , après son grand - père .
+TGT:  tout le pays le savait , a preuve que la veine découverte  la veine guillaume , du  de son grand - pere .
+----------------------------------------

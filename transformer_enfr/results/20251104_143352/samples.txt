@@ -1,0 +1,32 @@
+SRC: never have passengers .
+PRED: jamais passagers ne les passagers .
+TGT:  jamais de passagers .
+----------------------------------------
+SRC: the perpetual  of the lady , either on his handwriting , or on the  of his lines , or on the length of his letter , with the perfect  with which her praises were received , formed a curious dialogue , and was exactly in union with her opinion of each .
+PRED: la dame <unk> de la dame , soit sur sa propre , soit sur la <unk> de ses lignes , soit sur la longueur de sa lettre , avec le parfait <unk> dont on lui avait fait plaisir , et
+TGT:  les compliments que lui adressait constamment celle - ci sur l ’ élégance et la régularité de son écriture ou sur la longueur de sa lettre , et la parfaite indifférence avec laquelle ces louanges étaient  formaient une amusante opposition , tout en  l ’ opinion qu ’ elizabeth se faisait de l ’ un et de l ’ autre .
+----------------------------------------
+SRC: " yes .
+PRED: - - oui .
+TGT:  - - oui .
+----------------------------------------
+SRC: on thursday morning étienne was disquieted by the non - appearance of his old  , who had promised by letter to arrive on wednesday evening .
+PRED: le jeudi , étienne , <unk> par le seul , <unk> de son ancien <unk> , qui avait promis de faire la lettre du soir .
+TGT:  le jeudi matin , étienne fut pris d'inquiétude , en ne voyant pas arriver son ancien  , qui avait promis par  d'etre la le mercredi soir .
+----------------------------------------
+SRC: captain nemo left the cave , and we climbed back up the bank of shellfish in the midst of these clear waters not yet disturbed by divers at work .
+PRED: le capitaine nemo quitta la grotte , et nous <unk> sur la berge de pintadines , au milieu de ces eaux limpides <unk> pas encore par un profond sommeil .
+TGT:  le capitaine nemo quitta la grotte , et nous remontâmes sur le banc de pintadines , au milieu de ces eaux claires que ne troublait pas encore le travail des plongeurs .
+----------------------------------------
+SRC: i couldn't say , could barely even imagine .
+PRED: je ne pouvais le dire , à peine répondre .
+TGT:  je ne pouvais le dire , à peine l'imaginer .
+----------------------------------------
+SRC: in a few hours the colonists would definitely know what to expect .
+PRED: en quelques heures , les colons <unk> définitivement ce qui se <unk> .
+TGT:  avant quelques heures , les colons sauraient évidemment à quoi s'en tenir .
+----------------------------------------
+SRC: " a voyage ? " said gideon spilett .
+PRED: - - un voyage ? dit gédéon spilett .
+TGT:  - - une traversée ? dit gédéon spilett .
+----------------------------------------

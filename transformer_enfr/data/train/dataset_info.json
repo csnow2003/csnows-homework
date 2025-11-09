@@ -1,0 +1,45 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "en-fr",
+  "dataset_name": "opus_books",
+  "dataset_size": 32997043,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/opus_books@1f9f6191d0e91a3c539c2595e2fe48fc1420de9b/en-fr/train-00000-of-00001.parquet": {
+      "num_bytes": 20985324,
+      "checksum": null
+    }
+  },
+  "download_size": 20985324,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "translation": {
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "_type": "Translation"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 53982367,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 32997043,
+      "num_examples": 127085,
+      "dataset_name": "opus_books"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

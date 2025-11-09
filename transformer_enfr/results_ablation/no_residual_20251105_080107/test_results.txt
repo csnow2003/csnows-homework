@@ -1,0 +1,4 @@
+Test loss: 6.0680
+Test BLEU score: 0.37%
+Best validation bleu: 0.41%
+Best validation loss: 6.0591

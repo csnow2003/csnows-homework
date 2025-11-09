@@ -1,0 +1,40 @@
+SRC: might it not possibly thus reach the land ?
+PRED: peut - être ne <unk> - elle pas ainsi ?
+TGT:  peut - être  - il ainsi la côte !
+----------------------------------------
+SRC: at ten o'clock the moon won't be up yet .
+PRED: la lune ne se défait pas encore .
+TGT:  a dix heures , la lune ne sera pas encore levée .
+----------------------------------------
+SRC: however , he uttered not a word .
+PRED: cependant , il ne prononça pas un mot .
+TGT:  du reste il ne  pas une parole .
+----------------------------------------
+SRC: owing to the delay caused by the rescue of the young widow , fix and the priests reached the indian capital before mr . fogg and his servant , the magistrates having been already warned by a dispatch to arrest them should they arrive .
+PRED: le détective , ayant terminé son délai , arriva à calcutta , et , le domestique attendait à la jeune veuve du sieur fogg , il arriva devant lui - même à <unk> les <unk> de la veuve du rajah
+TGT:  mais , par suite du temps employé à la délivrance de la jeune veuve , fix et les indous arrivèrent à calcutta avant phileas fogg et son domestique , que les magistrats , prévenus par dépêche , devaient arrêter à leur descente du train .
+----------------------------------------
+SRC: " by god ! " étienne swore , in a low voice .
+PRED: — nom de dieu ! murmura étienne , en forçant catherine .
+TGT:  — nom de dieu ! jura sourdement étienne .
+----------------------------------------
+SRC: this confidence raised to its climax the passion that he inspired .
+PRED: il souleva cette confiance , la sienne .
+TGT:  cette confidence porta à son comble la passion qu ’ il inspirait .
+----------------------------------------
+SRC: dutch sam hurled a shilling down upon the table , and offered to fight the pride of westminster for it if he ventured to say that mendoza had been fairly beaten .
+PRED: il se <unk> à la table , et si toutefois , le hollandais se fut lancé à un shilling à la fois hardi hollandais qui se <unk> à un shilling .
+TGT:  sam le hollandais jeta un shilling sur la table et offrit de se battre contre la gloire de westminster , si celui - ci osait soutenir que mendoza avait été vaincu loyalement .
+----------------------------------------
+SRC: the man with the blue coat and the roll of paper is sir william baskerville , who was chairman of  of the house of commons under pitt . "
+PRED: sir william <unk> sous le journal des <unk> , et l ’ homme qui a été <unk> sous le papier l'exercice <unk> de sir william , et sir william <unk> .
+TGT:  l ’ homme avec le manteau bleu et le rouleau de papier est sir william baskerville , qui a été président des commissions de la chambre des communes sous pitt .
+----------------------------------------
+SRC: in consequence of this feeling of repugnance , he was about to pass without speaking to him , but , as he had done the day before , m . bonacieux accosted him .
+PRED: mais , comme il avait fait , sans parler de ce jour - là , il fut de lui , de répugnance à m . bonacieux , sans parler .
+TGT:  en conséquence il allait , vaincu par sa répugnance pour cet homme , passer devant lui sans lui parler , quand , ainsi que la veille , m . bonacieux  .
+----------------------------------------
+SRC: she did not drive to and fro like the others , from the  - point to the end of the champs - elysees .
+PRED: elle ne se laissait pas conduire au bout de la pointe des champs - élysées , et elle ne se laissait pas aller au bout de ce point aux autres .
+TGT:  elle ne se promenait pas du rond - point à l'entrée des champs -  , comme le font et le faisaient toutes ses collègues .
+----------------------------------------
