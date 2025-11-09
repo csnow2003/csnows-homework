@@ -239,10 +239,10 @@ transformer_enfr/                 # 项目根目录
 
 由于 GitHub 对单个文件大小（100 MB）有限制，本仓库中未包含训练好的模型权重文件（`.pt`）。
 
-您可以通过以下链接下载完整版本（包含所有实验的权重文件、结果与日志）：
+可以通过以下链接下载完整版本（包含所有实验的权重文件、结果与日志）：
 
 🔗 **百度网盘下载链接**  
-📦 下载地址：[https://pan.baidu.com/s/xxxxxxxxx](https://pan.baidu.com/s/1tWEDOTpqWd0XNtFluZQwbA?pwd=yxv9 )
+📦 下载地址：[完整文件下载](https://pan.baidu.com/s/1tWEDOTpqWd0XNtFluZQwbA?pwd=yxv9 )
 🔑 提取码：`yxv9`
 
 
