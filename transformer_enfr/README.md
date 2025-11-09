@@ -52,7 +52,8 @@ PyYAML>=6.0             # YAML配置文件处理
 
 ## 数据
 
-我们使用Hugging Face的`datasets`库加载`opus_books`英-法翻译数据集，https://huggingface.co/datasets/Helsinki-NLP/opus_books，数据集已保存在data文件夹下。
+我们使用Hugging Face的`datasets`库加载`opus_books`英-法翻译数据集，https://huggingface.co/datasets/Helsinki-NLP/opus_books，
+数据集已保存在data文件夹下。
 
 ```python
 from datasets import load_dataset
